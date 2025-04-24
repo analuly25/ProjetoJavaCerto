@@ -45,8 +45,7 @@ A aplicação permite:
 
 ### 2. Clonar o projeto
 ```
-git clone https://github.com/analuly25/ProjetoJava.git
-cd ProjetoJava 
+git clone https://github.com/analuly25/ProjetoJava.git cd ProjetoJava 
 ```
 Onde colocar: No terminal da nova máquina, dentro da pasta onde você quer clonar o repositório.
 
@@ -72,4 +71,4 @@ String usuario = "root";
 String senha = "sua_senha";
 ```
 5. Executar
-Vá até a classe com o método main() (ex: Main.java) e execute o programa.
+Vá até a classe com o método main() (ex: Main.java), utilize a MainGUI.java para a opção com interface e execute o programa.
