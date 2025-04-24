@@ -34,5 +34,6 @@ A aplicação permite:
 - Conexão: JDBC
 - Organização do código: DAO, Model, View (menus via terminal)
 
+### O CÓDIGO PARA RODAR COM A INTERFACE GRÁFICA É O MainGUI
 ### QUANDO O SISTEMA ABRIR A INTERFACE GRÁFICA, ESPANDE A TELA
 
